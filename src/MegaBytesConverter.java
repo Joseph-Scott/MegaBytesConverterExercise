@@ -38,7 +38,7 @@ public class MegaBytesConverter {
 
     public static void printMegaBytesAndKiloBytes(int kiloBytes) {
         if (x) {
-            System.out.println(XX KB = YY MB and ZZ KB);
+            System.out.println(X KB = Y MB and ZZ KB);
         } else if (kiloBytes < 0) {
             System.out.println("Invalid Value");
         }
